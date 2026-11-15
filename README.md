@@ -1,4 +1,4 @@
-# 🌽 South African Maize Yield Prediction Using Machine Learning
+# 🌽 South African Maize Yield Prediction 
 
 ## 🔗 Live Interactive Demo
 👉 **[Test the Live Maize Yield Predictor App](https://streamlit.app)**
