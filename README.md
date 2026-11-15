@@ -1,4 +1,4 @@
-# 🌽 South African Maize Yield Prediction Using Machine Learning
+# 🌽 South African Maize Yield Prediction 
 
 ## 📌 Problem Statement
 Maize is South Africa's primary staple crop, vital for national food security and rural livelihoods. However, erratic rainfall and temperature shifts make annual harvests difficult to predict. This project uses historical weather, pesticide usage, and agricultural trends to predict annual maize yield (in hg/ha), helping farmers and planners make informed decisions on storage, financing, and supply.
