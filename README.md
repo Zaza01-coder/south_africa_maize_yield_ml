@@ -19,7 +19,7 @@ Maize is South Africa's primary staple crop, vital for national food security an
 ## 📈 Visuals
 
 ### Actual vs. Predicted Yield (South Africa)
-![South Africa Maize Prediction](sa_maize_prediction.png)
+![South Africa Maize Prediction](sa_maize_prediction%20(1).png)
 
 ### Top Factors Driving Maize Yield
 ![Feature Importance](feature_importance.png)
